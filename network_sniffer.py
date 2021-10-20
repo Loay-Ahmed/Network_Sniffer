@@ -69,7 +69,7 @@ root = Tk()
 root.geometry("500x500")
 root.title("Network Sniffer")
 
-###### labels and buttons ,... ######
+###### labels and buttons ,etc... ######
 Label(root, text="Network Sniffer", font="Poppins 24 bold").pack()
 Label(root, text="Enter ip subdomain", font="Poppins 15 bold").pack()
 
